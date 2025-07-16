@@ -55,6 +55,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=🌈+Obrigada+pela+visita!+Até+mais!+🐱" alt="Footer Typing SVG" />
 </p>
 
-![github-user-contribution](https://github.com/user-attachments/assets/cc407e07-1d17-42a4-a8b4-526b28bfa228)
+![github-user-contribution](https://raw.githubusercontent.com/Viihh-77/snk/refs/heads/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
 <br>
