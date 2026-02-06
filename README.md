@@ -10,7 +10,7 @@
 <!-- Tecnologias -->
 <h2 align="center">💻 Tecnologias & Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,arduino,mysql,git,figma,vscode,discord,docker,eclipse,git,kotlin,linux,maven,notion,postman,spring,tailwind,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,arduino,mysql,git,figma,vscode,discord,docker,eclipse,kotlin,linux,maven,notion,postman,spring,tailwind,vscode&theme=dark" />
 </p>
 
 ![github-user-contribution](https://github.com/Viihh-77/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
