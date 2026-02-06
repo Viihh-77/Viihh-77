@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=6ABF4B&center=true&vCenter=true&width=700&lines=Olá%2C+me+chamo+Gabi!" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=6ABF4B&center=true&vCenter=true&width=700&lines=Olá%2C+me+chamo+Gabi!" alt="Typing SVG" /> 
 </p>
 
 <!-- Tecnologias -->
