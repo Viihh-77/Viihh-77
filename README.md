@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6ABF4B" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6ABF4B" />
 </p>
 
 <p align="center"> 
@@ -21,13 +21,9 @@ Sou estudante do CentroWEG em Desenvolvimento de Sistemas. Estou sempre em busca
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,arduino,mysql,git,figma,vscode,discord,docker,eclipse,kotlin,linux,maven,notion,postman,spring,tailwind&theme=dark" />
 </p>
 
-### 🎵 Atualmente Ouvindo
+### Spotify Playing 🎧
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ym6limipzjju5cy3gxskrpgfhq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false" alt="Spotify Profile">
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ym6limipzjju5cy3gxskrpgfhq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
@@ -39,16 +35,12 @@ Sou estudante do CentroWEG em Desenvolvimento de Sistemas. Estou sempre em busca
 
 ---
 
-## 🐍 Contribuições
-
 <p align="center">
   <img src="https://github.com/Viihh-77/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake">
 </p>
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=6ABF4B" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=6ABF4B" />
 </p>
 
-<p align="center">
-  <i>Obrigado por visitar meu perfil! ⭐</i>
-</p>
+
